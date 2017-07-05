@@ -34,6 +34,10 @@ We are in the process of tackling this project in seriousness. If you want to jo
 Update: Nervana [demonstrated](https://www.youtube.com/watch?v=NaqZkV_fBIM) that it is possible for 'independents' to build speech recognizers that are state of the art. 
 Update: **Mozilla** is working on [DeepSpeech
 ](https://github.com/mozilla/DeepSpeech) and just achieved [0% error rate](http://doyouunderstand.me) ... on the training set;) Free Speech is in good hands.
+**Samsung SDS-RN** - port of Baidu deepspeech to use  [mxnet
+](https://github.com/samsungsds-rnd/deepspeech.mxnet).
+
+
 <!-- ᖗ*﹏*ᖘ -->
 
 ### Fun tasks for newcomers
